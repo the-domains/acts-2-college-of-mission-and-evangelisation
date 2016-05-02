@@ -1,0 +1,28 @@
+name: Acts 2 College of Mission and Evangelisation
+favicon: null
+layout_spectrum: 0.8092318600974977
+typography_spectrum: 0.32407390512526035
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.13553228694945574
+  lightness: 0.6691765105351806
+  saturation: 0.2480137029197067
+  rhythmicContrast: 0.6439171866513789
+purpose: []
