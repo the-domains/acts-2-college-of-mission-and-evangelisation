@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Acts 2 College of Mission and Evangelisation]]></title>
         <description><![CDATA[Acts 2 College of Mission and Evangelisation]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/acts-2-college-of-mission-and-evangelisation/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 00:11:51 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 03 May 2016 00:37:57 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/acts-2-college-of-mission-and-evangelisation/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Acts2CoME is about fostering a change in your life. The kind of change that only God can bring. The kind of change that helps you focus your life. The kind of change that can have a positive impact on your world. </p>]]></description>
+            <link>https://thegrid.ai/acts-2-college-of-mission-and-evangelisation/acts2come-is-about-fostering-a-change-in-your-life-the-kind/index.html</link>
+            <guid isPermaLink="false">86f380c6-95fd-4cfd-aea6-7934eee42c6e</guid>
+            <pubDate>Tue, 03 May 2016 00:37:55 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Middle School Ministry]]></title>
             <description><![CDATA[<article><h1>Middle School Ministry</h1><p>Acts</p></article>]]></description>
-            <link>undefinedmiddle-school-ministry/index.html</link>
+            <link>https://thegrid.ai/acts-2-college-of-mission-and-evangelisation/middle-school-ministry/index.html</link>
             <guid isPermaLink="false">ff55afc6-3fb9-49f9-a6d6-b7d0fd800c41</guid>
             <pubDate>Tue, 03 May 2016 00:11:50 GMT</pubDate>
         </item>
